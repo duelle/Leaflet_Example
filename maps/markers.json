@@ -3,12 +3,12 @@ markers = [
      "name": "Gothenburg (Sweden): ICSE 2018",
      "url": "https://en.wikipedia.org/wiki/Gothenburg",
      "lat": 57.7,
-     "lng": 11.966667,
+     "lon": 11.966667,
    },
    {
      "name": "Prague (Czech Republic): SEAA 2018",
      "url": "https://en.wikipedia.org/wiki/Prague",
      "lat": 50.083333,
-     "lng": 14.416667,
+     "lon": 14.416667,
    },
 ];
